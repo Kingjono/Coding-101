@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Joseph's Coding Journey Day 2</title>
+    </head>
+    <body>
+        <h1>Joseph's coding learning D2</h1>
+        <div id="What did I learn?">
+            <p>From now on I will make a new html document to revise previous aspects of html that I learnt and practice new stuff that I learnt from that day</p>
+            <hr>
+            <form>
+                <h1>Put in your username!</h1>
+                <input type="text" name="username" value="first-text-field">
+                
+            </form>
+        </div>
+    </body>
+</html>
